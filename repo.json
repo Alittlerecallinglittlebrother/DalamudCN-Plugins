@@ -67,5 +67,19 @@
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/PartyFoodReminder.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/PartyFoodReminder.zip"
+  },
+  {
+    "Author": "Akl",
+    "Name": "DuanShuiJian",
+    "InternalName": "DuanShuiJian",
+    "AssemblyVersion": "0.1.0.1",
+    "Description": "断水剑实用功能合集：自动调整移动速度与自定义游戏对象缩放。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "断水剑实用功能合集",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/avatar.jpg",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian.zip"
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "Author": "Akl",
+  "Name": "DuanShuiJian",
+  "InternalName": "DuanShuiJian",
+  "AssemblyVersion": "0.1.0.1",
+  "Description": "自动调整移动速度，并按名称、模型或对象编号自定义游戏角色缩放。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "dalamudcn",
+    "movement",
+    "speed",
+    "scale",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/avatar.jpg",
+  "Punchline": "断水剑实用功能合集",
+  "AcceptsFeedback": true
+}
