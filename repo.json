@@ -17,7 +17,7 @@
     "Author": "Akl",
     "Name": "Macro Shelf-A",
     "InternalName": "MacroShelfA",
-    "AssemblyVersion": "0.2.1.0",
+    "AssemblyVersion": "0.3.0.0",
     "Description": "在独立窗口中集中保存、搜索、分组、排序并执行多行 FF14 宏命令，支持延时、中止和配置持久化。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
