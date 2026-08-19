@@ -31,7 +31,7 @@
     "Author": "Akl",
     "Name": "Nearby Player List",
     "InternalName": "NearbyPlayerList",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.0.1",
     "Description": "列出当前客户端附近的玩家，支持选中目标、回车发送私聊、预设话术和独立玩家备注。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
