@@ -45,7 +45,7 @@
     "Author": "Akl",
     "Name": "Auto Face",
     "InternalName": "DancingMadAutoFace",
-    "AssemblyVersion": "0.1.8.0",
+    "AssemblyVersion": "0.1.8.1",
     "Description": "Akl自动面向小助手。不保证不被电，如果被电请提供回放文件反馈。可能会与DR的面向锁冲突，建议关闭DR面向锁定。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -54,5 +54,18 @@
     "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DancingMadAutoFace/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DancingMadAutoFace.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DancingMadAutoFace.zip"
+  },
+  {
+    "Author": "Akl",
+    "Name": "Party Food Reminder",
+    "InternalName": "PartyFoodReminder",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "检测副本内小队成员的食物状态，在剩余五分钟或食物消失时通过小队频道提醒。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "副本内自动提醒小队成员补充食物。",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/PartyFoodReminder.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/PartyFoodReminder.zip"
   }
 ]
