@@ -59,7 +59,7 @@
     "Author": "Akl",
     "Name": "Party Food Reminder",
     "InternalName": "PartyFoodReminder",
-    "AssemblyVersion": "0.1.0.7",
+    "AssemblyVersion": "0.1.0.8",
     "Description": "检测副本内小队成员的食物状态，在剩余五分钟或食物消失时通过小队频道提醒。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
