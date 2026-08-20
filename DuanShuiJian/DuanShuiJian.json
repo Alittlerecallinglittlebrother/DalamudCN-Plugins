@@ -2,8 +2,8 @@
   "Author": "Akl",
   "Name": "DuanShuiJian",
   "InternalName": "DuanShuiJian",
-  "AssemblyVersion": "0.1.0.3",
-  "Description": "自动调整移动速度、自定义游戏对象缩放，并可移除其他玩家施加在自己的团辅增益。",
+  "AssemblyVersion": "0.1.0.7",
+  "Description": "我真没开 我兄弟自己给我注入的",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
   "Tags": [
