@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "DuanShuiJian/0.1.0.3": {
+      "DuanShuiJian/0.1.0.7": {
         "runtime": {
           "DuanShuiJian.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "DuanShuiJian/0.1.0.3": {
+    "DuanShuiJian/0.1.0.7": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
