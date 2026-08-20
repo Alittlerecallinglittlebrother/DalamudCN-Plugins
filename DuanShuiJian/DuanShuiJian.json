@@ -19,7 +19,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/icon.png?v=6a19bea",
   "Punchline": "断水剑实用功能合集",
   "AcceptsFeedback": true
 }
