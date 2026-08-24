@@ -1,0 +1,23 @@
+{
+  "Author": "Akl",
+  "Name": "Auto Gail",
+  "InternalName": "AutoGail",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "按设置向指定玩家批量交易金币，支持安全的自动接收、按日期筛选交易记录和 CSV 导出。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "dalamudcn",
+    "trade",
+    "gil",
+    "automation",
+    "history"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自动处理金币交易并记录交易明细。",
+  "AcceptsFeedback": true
+}
