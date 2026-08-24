@@ -6,6 +6,7 @@
 - `Macro Shelf-A`
 - `Nearby Player List`
 - `Auto Face`
+- `Auto Gail`
 
 ## 在线安装
 
