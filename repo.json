@@ -87,7 +87,7 @@
     "Author": "Akl",
     "Name": "Auto Gail",
     "InternalName": "AutoGail",
-    "AssemblyVersion": "0.1.0.2",
+    "AssemblyVersion": "0.1.0.4",
     "Description": "选中玩家后批量交易金币，支持安全的自动接收、交易记录筛选、删除和 Excel 可打开的 CSV 导出。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
