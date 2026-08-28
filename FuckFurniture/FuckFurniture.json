@@ -1,0 +1,23 @@
+{
+  "Author": "Akl",
+  "Name": "FuckFurniture",
+  "InternalName": "FuckFurniture",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "在有编辑权限的房屋中，将当前室内或室外已布置家具批量收回至仓库或背包。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "dalamudcn",
+    "housing",
+    "furniture",
+    "restore",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "一键批量收回房屋家具。",
+  "AcceptsFeedback": true
+}
