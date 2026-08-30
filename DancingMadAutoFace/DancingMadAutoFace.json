@@ -1,0 +1,24 @@
+{
+  "Author": "Akl",
+  "Name": "Auto Face",
+  "InternalName": "DancingMadAutoFace",
+  "AssemblyVersion": "0.1.10.16",
+  "Description": "Akl自动面向小助手。不保证不被电，如果被电请提供回放文件反馈。可能会与DR的面向锁冲突，建议关闭DR面向锁定。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "dalamudcn",
+    "raid",
+    "ultimate",
+    "autoface",
+    "dancingmad"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DancingMadAutoFace/icon.png",
+  "Punchline": "Akl自动面向小助手",
+  "AcceptsFeedback": true
+}

@@ -1,0 +1,23 @@
+{
+  "Author": "Akl",
+  "Name": "Party Food Reminder",
+  "InternalName": "PartyFoodReminder",
+  "AssemblyVersion": "0.1.0.9",
+  "Description": "稳定检测副本内小队成员的食物状态，分别提醒即将过期、完全缺食和补食成功。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "dalamudcn",
+    "party",
+    "food",
+    "reminder",
+    "duty"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "副本内自动提醒小队成员补充食物。",
+  "AcceptsFeedback": true
+}
