@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DancingMadAutoFace/0.1.10.16": {
+        "runtime": {
+          "DancingMadAutoFace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DancingMadAutoFace/0.1.10.16": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
