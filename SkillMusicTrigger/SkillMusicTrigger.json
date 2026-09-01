@@ -2,8 +2,8 @@
   "Author": "Akl",
   "Name": "SkillMusicTrigger",
   "InternalName": "SkillMusicTrigger",
-  "AssemblyVersion": "0.1.0.7",
-  "Description": "监听本地玩家的技能 Action ID，在技能开始或生效时播放指定的本地 MP3/WAV 歌曲。支持规则管理、冷却、去重、抓取下一次技能以及配置导入导出。",
+  "AssemblyVersion": "0.1.0.10",
+  "Description": "监听本地玩家的技能 Action ID，在技能开始或生效时播放指定的本地 MP3/WAV 歌曲。支持读条/瞬发技能结束停止、歌曲自然结束、指定状态结束、规则管理、冷却、事件去重、抓取下一次技能以及配置导入导出。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
   "Tags": [
