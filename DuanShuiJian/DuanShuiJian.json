@@ -2,7 +2,7 @@
   "Author": "Akl",
   "Name": "DuanShuiJian",
   "InternalName": "DuanShuiJian",
-  "AssemblyVersion": "0.1.0.7",
+  "AssemblyVersion": "0.1.0.11",
   "Description": "我真没开 我兄弟自己给我注入的",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
@@ -19,7 +19,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/icon.png?v=6a19bea",
+  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/DuanShuiJian/avatar.jpg",
   "Punchline": "断水剑实用功能合集",
   "AcceptsFeedback": true
 }
