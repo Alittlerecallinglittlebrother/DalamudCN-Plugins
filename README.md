@@ -8,6 +8,7 @@
 - `Auto Face`
 - `Auto Gail`
 - `FuckFurniture`
+- `Slidecasting goat`
 
 ## 在线安装
 

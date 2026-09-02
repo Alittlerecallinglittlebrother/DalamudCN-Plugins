@@ -121,5 +121,18 @@
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/FuckFurniture.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/FuckFurniture.zip"
+  },
+  {
+    "Author": "Akl",
+    "Name": "Slidecasting goat",
+    "InternalName": "OHStop",
+    "AssemblyVersion": "1.0.16.0",
+    "Description": "Slidecasting goat 在长读条技能开始前拦截移动输入，在服务端确认或进入滑步窗口后恢复移动；支持自定义按住放行快捷键、自动奔跑保护与实时诊断。",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Punchline": "滑步高手",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/OHStop.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/OHStop.zip"
   }
 ]
