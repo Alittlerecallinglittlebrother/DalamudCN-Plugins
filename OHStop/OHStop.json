@@ -2,7 +2,7 @@
   "Author": "Akl",
   "Name": "Slidecasting goat",
   "InternalName": "OHStop",
-  "AssemblyVersion": "1.0.19.6",
+  "AssemblyVersion": "1.0.19.7",
   "Description": "Slidecasting goat 在长读条技能开始前拦截移动输入，在服务端确认或进入滑步窗口后恢复移动；支持自定义按住放行快捷键、自动奔跑保护与实时诊断。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
