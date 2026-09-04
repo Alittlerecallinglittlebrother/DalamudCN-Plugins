@@ -2,8 +2,8 @@
   "Author": "Akl",
   "Name": "Slidecasting goat",
   "InternalName": "OHStop",
-  "AssemblyVersion": "1.0.17.4",
-  "Description": "读条时帮你稳住脚步，快读完时自动放行；支持按住快捷键临时移动、自动奔跑保护和状态浮窗。",
+  "AssemblyVersion": "1.0.19.4",
+  "Description": "Slidecasting goat 在长读条技能开始前拦截移动输入，在服务端确认或进入滑步窗口后恢复移动；支持自定义按住放行快捷键、自动奔跑保护与实时诊断。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
   "Tags": [
