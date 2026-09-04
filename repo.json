@@ -132,7 +132,7 @@
     "DalamudApiLevel": 15,
     "Punchline": "滑步高手",
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/OHStop.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/OHStop.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/OHStop/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/OHStop/latest.zip"
   }
 ]
