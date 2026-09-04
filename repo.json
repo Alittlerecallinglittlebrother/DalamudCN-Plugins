@@ -126,7 +126,7 @@
     "Author": "Akl",
     "Name": "Slidecasting goat",
     "InternalName": "OHStop",
-    "AssemblyVersion": "1.0.17.4",
+    "AssemblyVersion": "1.0.19.4",
     "Description": "读条时帮你稳住脚步，快读完时自动放行；支持按住快捷键临时移动、自动奔跑保护和状态浮窗。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
