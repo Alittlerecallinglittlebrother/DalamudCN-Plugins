@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "OHStop/1.0.19.4": {
+      "OHStop/1.0.19.5": {
         "runtime": {
           "OHStop.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "OHStop/1.0.19.4": {
+    "OHStop/1.0.19.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
