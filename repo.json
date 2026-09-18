@@ -139,7 +139,7 @@
     "Author": "akira0245, Ori, Kalle, Zune, 断水剑",
     "Name": "midibard2-深海回响特供版",
     "InternalName": "MidiBard2",
-    "AssemblyVersion": "3.2.5.9",
+    "AssemblyVersion": "3.2.5.11",
     "Description": "基于 reckhou/MidiBard2 的深海回响定制版本。演出房间支持一名主持人与最多七名只读队员。主持人无需入队，可查看队长曲库、调整队列与控制连播；队长保留同等管理权限并执行演奏。队员通过独立查看邀请实时查看当前、下一首及待演顺序。支持观众自动点歌、单人及合奏主控、演出记录。保留原作者署名，不含 OBS 联动。与原版共用 MidiBard2 标识，不可同时启用。公网隧道及游戏内演奏仍待验收。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -156,8 +156,8 @@
       "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/preview.png",
       "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/room-preview.png"
     ],
-    "Changelog": "3.2.5.9：已结束队列、节目单条目、点歌记录和演出明细新增删除按钮，并支持批量清理已结束记录及删除整场记录。删除节目单自动归档空闲场次，保留曲库和演出记录。修复未归档演出记录无法导出，可直接导出 JSON/CSV 到专用目录并打开文件夹。主持人可同步清理队列历史，队员仍只读；正在准备或演奏的条目受到保护。优化小窗口和大字体下的节目单及点歌列表布局。",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/MidiBard2.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/MidiBard2.zip"
+    "Changelog": "3.2.5.11：修复欢迎语音导致插件加载失败。音频目录改用卫月提供的插件文件路径，兼容从内存加载 DLL；欢迎模块初始化异常不再阻止整个插件启动。加入实际插件 DLL 内存加载及原音频播放回归检查。保留三个身份欢迎音频、独立音量、试听，以及原有自动点歌、合奏与记录功能。",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.11/MidiBard2.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.11/MidiBard2.zip"
   }
 ]

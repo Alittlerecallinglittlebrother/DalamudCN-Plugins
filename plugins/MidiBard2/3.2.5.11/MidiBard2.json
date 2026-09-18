@@ -1,0 +1,28 @@
+{
+  "Author": "akira0245, Ori, Kalle, Zune, 断水剑",
+  "Name": "midibard2-深海回响特供版",
+  "InternalName": "MidiBard2",
+  "AssemblyVersion": "3.2.5.11",
+  "Description": "基于 reckhou/MidiBard2 的深海回响定制版本。演出房间支持一名主持人与最多七名只读队员。主持人无需入队，可查看队长曲库、调整队列与控制连播；队长保留同等管理权限并执行演奏。队员通过独立查看邀请实时查看当前、下一首及待演顺序。支持观众自动点歌、单人及合奏主控、演出记录。保留原作者署名，不含 OBS 联动。与原版共用 MidiBard2 标识，不可同时启用。公网隧道及游戏内演奏仍待验收。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "music",
+    "utility",
+    "midi",
+    "bard"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/preview.png",
+    "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.9/room-preview.png"
+  ],
+  "IconUrl": "https://i.imgur.com/OSxqew4.png",
+  "Punchline": "观众自动点歌、主持人协作与队员节目单查看，支持樱花 TCP 隧道。",
+  "Changelog": "3.2.5.11：修复欢迎语音导致插件加载失败。音频目录改用卫月提供的插件文件路径，兼容从内存加载 DLL；欢迎模块初始化异常不再阻止整个插件启动。加入实际插件 DLL 内存加载及原音频播放回归检查。保留三个身份欢迎音频、独立音量、试听，以及原有自动点歌、合奏与记录功能。",
+  "AcceptsFeedback": false
+}
