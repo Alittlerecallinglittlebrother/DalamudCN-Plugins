@@ -1,16 +1,17 @@
 # midibard2-深海回响特供版
 
-版本：3.2.5.9。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+版本：3.2.5.11。作者：akira0245, Ori, Kalle, Zune, 断水剑。
 
 基于 reckhou/MidiBard2 API 15 的深海回响定制分支，保留 MidiBard 演奏与合奏引擎，提供观众自动点歌、主持人协作和队员节目单查看。
 
-- [安装包](3.2.5.9/MidiBard2.zip)
-- [完整对应源码与构建脚本](3.2.5.9/MidiBard2-source.zip)
-- [使用说明](3.2.5.9/STAGE-README.md)
-- [演出房间与队员查看](3.2.5.9/STAGE-ROOM.md)
-- [验证范围](3.2.5.9/STAGE-VERIFICATION.md)
-- [SHA256 校验](3.2.5.9/SHA256SUMS.txt)
-- [GNU AGPL v3 许可](3.2.5.9/LICENSE)
+- [安装包](3.2.5.11/MidiBard2.zip)
+- [完整对应源码与构建脚本](3.2.5.11/MidiBard2-source.zip)
+- [使用说明](3.2.5.11/STAGE-README.md)
+- [欢迎语音](3.2.5.11/WELCOME-VOICE.md)
+- [演出房间与队员查看](3.2.5.11/STAGE-ROOM.md)
+- [验证范围](3.2.5.11/STAGE-VERIFICATION.md)
+- [SHA256 校验](3.2.5.11/SHA256SUMS.txt)
+- [GNU AGPL v3 许可](3.2.5.11/LICENSE)
 
 ## 安装
 
@@ -20,7 +21,7 @@
 https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 ```
 
-刷新安装器，搜索 `midibard2-深海回响特供版`，安装或更新到 `3.2.5.9`。本插件沿用 `MidiBard2` 内部标识和配置目录，安装前停用原版及旧版开发插件，并备份配置。
+刷新安装器，搜索 `midibard2-深海回响特供版`，安装或更新到 `3.2.5.11`。本插件沿用 `MidiBard2` 内部标识和配置目录，安装前停用原版及旧版开发插件，并备份配置。
 
 打开底部“自动点歌”，选择单人或合奏主控，进入乐器演奏模式后点击“开始连播”。观众在开启的频道发送 `点歌 曲名`，唯一匹配直接排队；没有匹配或有多个版本时才需要选择歌曲。合奏需各端事先配置好曲目、轨道、乐器和合奏监听。
 
@@ -38,7 +39,15 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 未归档场次可以直接导出：点击导出按钮，选择 JSON 或 CSV，文件保存到 `%APPDATA%/XIVLauncherCN/pluginConfigs/MidiBard2/Stage/Exports`，旁边文件夹按钮可打开结果。每次导出独立保存，不会结束正在进行的演出。
 
-217 项核心测试及 180 条运行检查 PASS 输出通过，包含原生界面的删除确认和 JSON/CSV 实际落盘、真实本机 TLS、多客户端和独立进程检查。游戏内实际演奏、多人合奏及樱花公网连通性尚未验收。
+## 欢迎语音与加载修复
+
+首次打开插件窗口时，`七猫猫猫猫@伊修加德` 和 `悼亡录@红茶川` 播放各自专属欢迎，其他角色播放通用欢迎。使用提供的三段原始 WAV，每次登录仅自动播放一次；演奏或准备期间跳过，播放中开始演奏会停止。设置窗口的“欢迎语音”页可关闭、调节独立音量、试听和停止，声音仅在本机播放。
+
+3.2.5.11 修复本地 3.2.5.10 的加载失败：卫月从内存加载 DLL 时程序集路径为空，欢迎模块现改用卫月提供的插件文件路径。欢迎模块初始化异常只禁用欢迎功能，不再阻止整个插件启动。
+
+232 项核心测试、188 条常规运行检查 PASS 输出，以及 5 条实际 DLL 内存加载检查通过，包含原音频通过 Windows 输出完整播放。游戏内加载、欢迎触发、实际演奏、多人合奏及樱花公网连通性尚未验收。压缩包沿用已验证的本地构建，包内文档记录发布前状态；在线安装以本页为准。
+
+![欢迎语音设置](3.2.5.11/welcome-preview.png)
 
 ![已结束队列清理](3.2.5.9/preview.png)
 
