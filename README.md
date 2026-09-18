@@ -22,4 +22,6 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
 
-版本 `3.2.5.8`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+版本 `3.2.5.9`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+
+本版为已结束列表、节目单、点歌记录及演出记录添加删除和清理按钮；未归档演出也可直接导出 JSON/CSV，并打开导出文件夹。
