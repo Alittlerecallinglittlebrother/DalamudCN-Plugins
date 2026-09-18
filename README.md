@@ -25,8 +25,10 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 ## midibard2-深海回响特供版
 
-版本 `3.2.5.8`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+版本 `3.2.5.9`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
 
 观众聊天点歌自动排队，支持单人和合奏主控。演出房间支持队伍外主持人与队长共同管理队列，以及最多七名队员只读查看当前曲目、下一首和待演顺序，共用樱花 TCP 隧道。安装前停用原版或旧版 MidiBard2 开发插件，避免相同内部标识重复加载。实际公网连接、游戏内演奏和多人合奏仍待验证。
+
+本版为已结束列表、节目单、点歌记录及演出记录添加删除和清理按钮；未归档演出也可直接导出 JSON/CSV，并打开导出文件夹。
 
 [使用说明与对应源码](plugins/MidiBard2/README.md)

@@ -1,16 +1,16 @@
 # midibard2-深海回响特供版
 
-版本：3.2.5.8。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+版本：3.2.5.9。作者：akira0245, Ori, Kalle, Zune, 断水剑。
 
 基于 reckhou/MidiBard2 API 15 的深海回响定制分支，保留 MidiBard 演奏与合奏引擎，提供观众自动点歌、主持人协作和队员节目单查看。
 
-- [安装包](3.2.5.8/MidiBard2.zip)
-- [完整对应源码与构建脚本](3.2.5.8/MidiBard2-source.zip)
-- [使用说明](3.2.5.8/STAGE-README.md)
-- [演出房间与队员查看](3.2.5.8/STAGE-ROOM.md)
-- [验证范围](3.2.5.8/STAGE-VERIFICATION.md)
-- [SHA256 校验](3.2.5.8/SHA256SUMS.txt)
-- [GNU AGPL v3 许可](3.2.5.8/LICENSE)
+- [安装包](3.2.5.9/MidiBard2.zip)
+- [完整对应源码与构建脚本](3.2.5.9/MidiBard2-source.zip)
+- [使用说明](3.2.5.9/STAGE-README.md)
+- [演出房间与队员查看](3.2.5.9/STAGE-ROOM.md)
+- [验证范围](3.2.5.9/STAGE-VERIFICATION.md)
+- [SHA256 校验](3.2.5.9/SHA256SUMS.txt)
+- [GNU AGPL v3 许可](3.2.5.9/LICENSE)
 
 ## 安装
 
@@ -20,7 +20,7 @@
 https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 ```
 
-刷新安装器，搜索 `midibard2-深海回响特供版`，安装或更新到 `3.2.5.8`。本插件沿用 `MidiBard2` 内部标识和配置目录，安装前停用原版及旧版开发插件，并备份配置。
+刷新安装器，搜索 `midibard2-深海回响特供版`，安装或更新到 `3.2.5.9`。本插件沿用 `MidiBard2` 内部标识和配置目录，安装前停用原版及旧版开发插件，并备份配置。
 
 打开底部“自动点歌”，选择单人或合奏主控，进入乐器演奏模式后点击“开始连播”。观众在开启的频道发送 `点歌 曲名`，唯一匹配直接排队；没有匹配或有多个版本时才需要选择歌曲。合奏需各端事先配置好曲目、轨道、乐器和合奏监听。
 
@@ -32,11 +32,17 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 普通乐手选择“队员查看”，粘贴独立查看邀请，即可查看当前曲目、下一首和待演顺序。最多七名同时在线，不占主持人名额。查看端不接收点歌、不能修改队列，也不会启动本机自动连播；原 MidiBard 合奏配置和跟随照常使用。队长、主持人和队员建议统一更新至本版。
 
-207 项核心测试及 158 条运行检查 PASS 输出通过，包含真实本机 TLS、多客户端和独立进程检查。游戏内实际演奏、多人合奏及樱花公网连通性尚未验收。
+## 删除与导出
 
-![队员查看节目单](3.2.5.8/preview.png)
+已结束队列和节目单每行可用垃圾桶删除，并支持清理已结束节目。点歌记录支持逐条删除、按当前筛选清理已处理记录；演出记录支持删除单条明细、清理本场已结束明细和删除整场。所有删除操作需要确认，曲库和 MIDI 文件保留；正在准备或演奏的节目不能删除。主持人也可同步清理队列历史。
 
-![队长演出房间](3.2.5.8/room-preview.png)
+未归档场次可以直接导出：点击导出按钮，选择 JSON 或 CSV，文件保存到 `%APPDATA%/XIVLauncherCN/pluginConfigs/MidiBard2/Stage/Exports`，旁边文件夹按钮可打开结果。每次导出独立保存，不会结束正在进行的演出。
+
+217 项核心测试及 180 条运行检查 PASS 输出通过，包含原生界面的删除确认和 JSON/CSV 实际落盘、真实本机 TLS、多客户端和独立进程检查。游戏内实际演奏、多人合奏及樱花公网连通性尚未验收。
+
+![已结束队列清理](3.2.5.9/preview.png)
+
+![队长演出房间](3.2.5.9/room-preview.png)
 
 ## 来源与许可
 
