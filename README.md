@@ -22,4 +22,4 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
 
-版本 `3.2.5.5`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+版本 `3.2.5.8`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
