@@ -9,6 +9,7 @@
 - `Auto Gail`
 - `FuckFurniture`
 - `Slidecasting goat`
+- `midibard2-深海回响特供版`
 
 ## 在线安装
 
@@ -21,3 +22,11 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 保存后即可在插件安装器中搜索并安装上述插件。
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
+
+## midibard2-深海回响特供版
+
+版本 `3.2.5.5`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
+
+观众聊天点歌自动匹配曲库并按顺序排队，支持单人和合奏主控。安装前停用原版或旧版 MidiBard2 开发插件，避免相同内部标识重复加载。实际游戏内演奏和多人合奏仍待验证。
+
+[使用说明与对应源码](plugins/MidiBard2/README.md)
