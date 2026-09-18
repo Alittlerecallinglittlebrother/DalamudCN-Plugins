@@ -1,0 +1,27 @@
+{
+  "Author": "akira0245, Ori, Kalle, Zune, 断水剑",
+  "Name": "midibard2-深海回响特供版",
+  "InternalName": "MidiBard2",
+  "AssemblyVersion": "3.2.5.5",
+  "Description": "基于 reckhou/MidiBard2 的深海回响定制版本。观众聊天点歌自动匹配曲库并按接收顺序排队，支持单人演奏、合奏主控、播放列表导入和演出记录。保留原 MidiBard 作者署名，不含 OBS 联动。与原版共用 MidiBard2 插件标识，不可同时启用。自动点歌及合奏功能仍需游戏内验证。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins",
+  "Tags": [
+    "music",
+    "utility",
+    "midi",
+    "bard"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MidiBard2/3.2.5.5/preview.png"
+  ],
+  "IconUrl": "https://i.imgur.com/OSxqew4.png",
+  "Punchline": "观众聊天点歌、自动排队与连续演奏，支持单人和合奏主控。",
+  "Changelog": "3.2.5.5：更名为 midibard2-深海回响特供版，原作者署名后追加断水剑。包含自动点歌队列、单人及合奏主控连播、曲库搜索弹窗修复和简化界面。游戏内实际演奏与多人合奏仍待验证。",
+  "AcceptsFeedback": false
+}
