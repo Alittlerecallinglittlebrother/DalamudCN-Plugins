@@ -1,0 +1,26 @@
+{
+  "version": "0.8.2.0",
+  "date": "2026-09-21",
+  "stage": "prepared-for-publication",
+  "originalLocalPluginSha256": "4947A58462CD474695F8F8F1E59C2569E896CD370A83C71403472313BF3DF12A",
+  "onlinePluginSha256": "8F615457D46521551E879D73EF9ABA938AC70ED7BDCC23A7A85D74E5B59170E4",
+  "sourceSha256": "A649EDC2F5CB9288AD5B28933C96C2E43A36EE52934A2DDDA9AAA3E39990F8ED",
+  "dllSha256": "0EDAB4A3CAA0267D8E4708DA4C1178AC0D2E8AF48EF40C33DDCFA6A027031CA0",
+  "iconSha256": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB",
+  "dllMatchesVerifiedLocalBuild": true,
+  "metadataOnlyChanges": [
+    "RepoUrl",
+    "IconUrl"
+  ],
+  "sourceIsOriginalVerifiedSnapshot": true,
+  "logicChecksPassed": 205,
+  "nativeUiAssertionsPassed": 277,
+  "userReportedIssue": "Swiftcast executes after switching to AST; subsequent Helios Conjunction does not execute and four-line macro ends without a message.",
+  "reportedIssueConfirmedFixed": false,
+  "gameAcceptancePassed": false,
+  "unrelatedFeedEntriesUnchanged": true,
+  "unrelatedFeedEntryCount": 10,
+  "downloadUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/MacroShelfA.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/icon.png",
+  "repoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/MacroShelfA"
+}
