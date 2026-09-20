@@ -1,0 +1,31 @@
+{
+  "version": "0.8.4.0",
+  "date": "2026-09-21",
+  "stage": "prepared-for-publication",
+  "baselineCommit": "819a50bf3010ed0112db7bf430ee5c5b89f8c336",
+  "originalLocalPluginSha256": "1761ECB75D5B62710175D95AE129FAAAD29A0FCB98E46461BD883E9BFCFE1DCA",
+  "onlinePluginSha256": "F0927610226D6422CAD0480ADF4489071AA7009019BCB8A75CB16D6F8226BB92",
+  "sourceSha256": "4CFE959BF5DEFBD1E6712698A3CCBA583DB83E59C57E2AAB476034DE5E5E9DBB",
+  "dllSha256": "48E37107C962704F5AF4D802649D2FC2A775E1C7D6106FA9B6D6E3D8FDC5DA78",
+  "iconSha256": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB",
+  "dllMatchesVerifiedLocalBuild": true,
+  "metadataOnlyChanges": [
+    "IconUrl"
+  ],
+  "sourceIsOriginalVerifiedSnapshot": true,
+  "buildWarnings": 0,
+  "buildErrors": 0,
+  "logicChecksPassed": 260,
+  "nativeUiAssertionsPassed": 294,
+  "universalPostGearsetBarrier": true,
+  "fixedDelayAdded": false,
+  "actionRetries": false,
+  "diagnosticsDefaultEnabled": false,
+  "allReportedActionIssuesConfirmedFixed": false,
+  "gameAcceptancePassed": false,
+  "unrelatedFeedEntriesUnchanged": true,
+  "unrelatedFeedEntryCount": 10,
+  "downloadUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.4.0/MacroShelfA.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.4.0/icon.png",
+  "repoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/MacroShelfA"
+}
