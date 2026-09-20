@@ -1,0 +1,2 @@
+db6381e2c8161c71f027e1c1136d6bea2c99241bd5a9aef621d2ab1ca189ab9e  MacroShelfA.zip
+10c970a2c5b3c96c8411b65bd6b634f0590f237c7bbb0ef795e9431fcf2beecc  MacroShelfA-source.zip

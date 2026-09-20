@@ -1,0 +1,23 @@
+{
+  "Author": "Akl",
+  "Name": "Macro Shelf-A",
+  "InternalName": "MacroShelfA",
+  "AssemblyVersion": "0.4.1.0",
+  "Description": "集中保存、搜索和执行 FF14 插件宏。支持自定义宏组、整组连续执行、单独运行子宏，以及默认关闭的“解除 15 行限制”开关。保留配置导入导出、小数等待、整组中止和可拖动悬浮入口，无需占用游戏宏槽位。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA",
+  "Tags": [
+    "dalamudcn",
+    "macro",
+    "command",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MacroShelfA/main/icon.png",
+  "Punchline": "自定义宏组与子宏，支持可选解除 15 行限制。",
+  "AcceptsFeedback": true
+}
