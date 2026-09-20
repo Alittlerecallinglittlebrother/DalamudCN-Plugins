@@ -17,16 +17,22 @@
     "Author": "Akl",
     "Name": "Macro Shelf-A",
     "InternalName": "MacroShelfA",
-    "AssemblyVersion": "0.6.1.0",
-    "Description": "集中保存、搜索和执行 FF14 插件宏。默认行间隔为 0，无需开关；无显式等待的命令逐帧执行，/wait 和等待标签仍按实际派发时刻计时。可选绑定独立宏或宏组，在小队战斗倒计时正常结束后自动执行，默认关闭。支持自定义宏组、整组连续执行、单独运行子宏，以及默认关闭的“解除 15 行限制”开关。保留配置导入导出、小数等待、整组中止和可拖动悬浮入口，无需占用游戏宏槽位。",
+    "AssemblyVersion": "0.8.2.0",
+    "Description": "当我受够了FF14那糟糕的宏指令",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Punchline": "宏组衔接、长宏、倒计时触发，默认无额外行间隔。",
-    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA",
-    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MacroShelfA/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.6.1.0/MacroShelfA.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.6.1.0/MacroShelfA.zip",
-    "Changelog": "0.6.1.0：默认行间隔直接改为 0，无需开关，不再额外等待 0.15 秒；无显式等待命令逐帧执行，每帧最多一行。/wait、等待标签及子宏末行等待从实际派发时刻完整计算。不包含统一时间轴、音乐卡点、迟到中止及执行计时页；旧计时字段被忽略。保留宏组、解除 15 行限制、倒计时触发与整组中止。112 项逻辑测试和原生 ImGui 交互测试通过，尚未游戏内实测。"
+    "Punchline": "当我受够了FF14那糟糕的宏指令",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/MacroShelfA",
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/MacroShelfA.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/MacroShelfA.zip",
+    "Changelog": "0.8.2.0：新增切职状态一致性保护，仅在数字 /gs change 后首个 /ac 前核对三处职业与套装状态；默认额外行间隔仍为0，等待从实际派发后计时，不重复施法，首次阻塞10秒超时停止。包含A+B主编辑界面、独立常用宏栏、用户原图图标，并修复添加弹窗拉长、重复缩放及底部留白。205项逻辑检查、277项界面断言通过。已知问题：用户反馈即刻咏唱可用，但后续阳星合相未执行、宏无提示结束，仍在排查；本次发布未新增对此问题的修复，不保证职业状态一致即技能名缓存就绪。",
+    "Tags": [
+      "dalamudcn",
+      "macro",
+      "command",
+      "utility"
+    ]
   },
   {
     "Author": "Akl",
