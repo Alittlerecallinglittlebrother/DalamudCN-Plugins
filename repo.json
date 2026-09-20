@@ -17,16 +17,16 @@
     "Author": "Akl",
     "Name": "Macro Shelf-A",
     "InternalName": "MacroShelfA",
-    "AssemblyVersion": "0.4.1.0",
-    "Description": "集中保存、搜索和执行 FF14 插件宏。支持自定义宏组、整组连续执行、单独运行子宏，以及默认关闭的“解除 15 行限制”开关。保留配置导入导出、小数等待、整组中止和可拖动悬浮入口，无需占用游戏宏槽位。",
+    "AssemblyVersion": "0.5.0.0",
+    "Description": "集中保存、搜索和执行 FF14 插件宏。可选绑定独立宏或宏组，在小队战斗倒计时正常结束后自动执行，默认关闭。支持自定义宏组、整组连续执行、单独运行子宏，以及默认关闭的“解除 15 行限制”开关。保留配置导入导出、小数等待、整组中止和可拖动悬浮入口，无需占用游戏宏槽位。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Punchline": "自定义宏组与子宏，支持可选解除 15 行限制。",
+    "Punchline": "自定义宏组、长宏与战斗倒计时结束自动触发。",
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA",
     "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MacroShelfA/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.4.1.0/MacroShelfA.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.4.1.0/MacroShelfA.zip",
-    "Changelog": "0.4.1.0：新增自定义宏组与子宏，总按钮一键顺序执行；子宏可命名、排序、复制、单独运行。新增默认关闭的“解除 15 行限制”开关，对独立宏和子宏生效，每宏支持 64,000 字符。关闭开关不截断内容，运行中变更只影响下次启动。保留跨子宏末尾等待、整组中止、悬浮入口和配置导入导出。45 项自动化检查及原生界面交互测试通过；尚未游戏内实测。"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.5.0.0/MacroShelfA.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.5.0.0/MacroShelfA.zip",
+    "Changelog": "0.5.0.0：新增默认关闭的“战斗倒计时结束后执行宏”。在“事件触发”页选择独立宏或整个宏组，下一轮小队倒计时正常结束后自动执行一次。取消、登出、切图不触发，已有宏运行时跳过，不打断、不排队。绑定随重命名保留，删除目标或覆盖导入会关闭；保留长宏、子宏顺序、等待和整组中止。79 项逻辑测试与原生 ImGui 交互验证通过，游戏内倒计时联动尚未实测。"
   },
   {
     "Author": "Akl",
