@@ -1,0 +1,23 @@
+{
+  "Author": "Akl",
+  "Name": "Macro Shelf-A",
+  "InternalName": "MacroShelfA",
+  "AssemblyVersion": "0.8.2.0",
+  "Description": "当我受够了FF14那糟糕的宏指令",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/MacroShelfA",
+  "Tags": [
+    "dalamudcn",
+    "macro",
+    "command",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.8.2.0/icon.png",
+  "Punchline": "当我受够了FF14那糟糕的宏指令",
+  "AcceptsFeedback": true
+}
