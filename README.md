@@ -23,6 +23,14 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
 
+## Macro Shelf-A
+
+版本 `0.4.1.0`，卫月 API 15，作者：Akl。支持自定义总宏按钮、子宏分类与顺序衔接、单独运行子宏，以及默认关闭的“解除 15 行限制”开关。开启后独立宏和子宏均可超过 15 行，每宏支持 64,000 字符；保留等待、整组中止和悬浮入口。
+
+45 项自动化检查与原生 ImGui 交互测试通过，游戏内效果尚未实测。
+
+[使用说明、插件包与对应源码](plugins/MacroShelfA/README.md)
+
 ## midibard2-深海回响特供版
 
 版本 `3.2.5.11`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
