@@ -10,6 +10,7 @@
 - `FuckFurniture`
 - `Slidecasting goat`
 - `midibard2-深海回响特供版`
+- `点数统计`
 
 ## 在线安装
 
@@ -42,3 +43,13 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 本版加入按角色名与原属服务器匹配的本机欢迎语音，支持独立音量、试听和停止，并修复欢迎模块在卫月内存加载 DLL 时导致整个插件加载失败的问题。保留记录删除、清理及未归档演出 JSON/CSV 导出功能。232 项核心测试及实际 DLL 内存加载、原音频播放检查通过；游戏内加载和欢迎触发仍待验收。
 
 [使用说明与对应源码](plugins/MidiBard2/README.md)
+
+## 点数统计（点数比拼）
+
+版本 **1.1.0.0**，卫月 API 15，作者：断水剑。使用 `/dstat` 打开。
+
+独立统计 `/random` 的最高、最低或最接近目标数字的玩家；开始自动公告，结束按所选规则公布全部并列第一。公告文字、目标数字和发送频道均可自行设置，默认呼喊 `/shout`。保留逐次记录、归档、复制排名及 CSV 导出。
+
+28 项核心测试、74 项流程/队列/原生界面检查通过；真实游戏内加载及公告收发尚待验收。
+
+[安装说明、插件包与对应源码](plugins/DiceStats/README.md)
