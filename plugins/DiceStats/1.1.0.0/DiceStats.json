@@ -1,0 +1,15 @@
+{
+  "Author": "断水剑",
+  "Name": "点数统计",
+  "InternalName": "DiceStats",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "独立的 FF14 掷骰统计插件。统计最高、最低或最接近目标的点数；开始自动公告，结束自动公布所选规则全部并列第一的玩家。公告文字与发送频道可自定义。使用 /dstat 打开。",
+  "Punchline": "最高、最低，或最接近你指定的数字",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": ["dice", "random", "statistics"],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "Changelog": "1.1.0.0：新增开始公告与结束自动报结果；最高、最低、最近目标三种规则分别编辑结束模板；支持变量、预览、频道选择、并列玩家及分段限速发送。暂停不发送结束公告。"
+}

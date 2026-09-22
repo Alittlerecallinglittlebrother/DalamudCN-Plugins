@@ -9,6 +9,7 @@
 - `Auto Gail`
 - `FuckFurniture`
 - `Slidecasting goat`
+- `点数统计`
 
 ## 在线安装
 
@@ -35,3 +36,11 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 版本 `3.2.5.11`，卫月 API 15。作者：akira0245, Ori, Kalle, Zune, 断水剑。
 
 本版加入按角色名与原属服务器匹配的本机欢迎语音，支持独立音量、试听和停止，并修复欢迎模块在卫月内存加载 DLL 时导致整个插件加载失败的问题。保留记录删除、清理及未归档演出 JSON/CSV 导出功能。
+
+## 点数统计（点数比拼）
+
+版本 **1.1.0.0**，卫月 API 15，作者：断水剑。使用 `/dstat` 打开。
+
+独立统计 `/random` 的最高、最低或最接近目标数字的玩家；开始自动公告，结束按所选规则公布全部并列第一。公告文字、目标数字和发送频道均可自行设置，默认呼喊 `/shout`。保留逐次记录、归档、复制排名及 CSV 导出。
+
+[安装说明、插件包与对应源码](plugins/DiceStats/README.md)
