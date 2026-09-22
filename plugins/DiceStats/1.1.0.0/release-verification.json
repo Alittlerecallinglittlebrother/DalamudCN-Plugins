@@ -1,0 +1,20 @@
+{
+  "version": "1.1.0.0",
+  "date": "2026-09-23",
+  "baselineCommit": "f748832a83aa52d962beec5e1299b9d54af4855f",
+  "packageSha256": "90BFC315632C02B4855E6EA603BCB387D032E1E0838A590ED3BC3C130E231808",
+  "sourceSha256": "045A343730C095D279D1D414E24060DAFA1A22D9380140B0638212A7AD8BFD8D",
+  "dllSha256": "9DA5C3012F753A575F5F10AB543F98F38FB1E4BA98B418876F7DEC5C8C83928F",
+  "coreDllSha256": "86825A14D6C6CA37D675800945AD2E25304C20DD9BD2EE87476C946F86E6F8F3",
+  "packagesMatchVerifiedLocalArtifacts": true,
+  "buildErrors": 0,
+  "buildWarnings": 0,
+  "coreChecksPassed": 28,
+  "runtimeChecksPassed": 74,
+  "gameLoadVerified": false,
+  "inGameAnnouncementVerified": false,
+  "otherFeedEntriesUnchanged": true,
+  "otherFeedEntryCount": 11,
+  "downloadUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DiceStats/1.1.0.0/DiceStats.zip",
+  "repoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/DiceStats"
+}
