@@ -1,0 +1,47 @@
+{
+  "version": "0.9.4.0",
+  "date": "2026-09-27",
+  "stage": "prepared-for-publication",
+  "baselineCommit": "35b9430d614afcad4d15a912c78645255ded646b",
+  "previousOnlineVersion": "0.8.4.0",
+  "onlinePluginSha256": "DD7957B5C5716D2AB0A125277B722669DDC621BD3A5451783542B3C70FB2B596",
+  "sourceSha256": "62293463FCF935D49D64FE29A950EB4C4B2AB75BFB001980F241B532ACD38EB0",
+  "dllSha256": "50D501A547527D262ED0318F933A316187A18DB83DA17D7F179C889270016F02",
+  "iconSha256": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB",
+  "dllMatchesVerifiedLocalBuild": true,
+  "depsAndIconMatchVerifiedLocalBuild": true,
+  "metadataOnlyChanges": [
+    "IconUrl"
+  ],
+  "sourceIsOriginalVerifiedSnapshot": true,
+  "installerRootEntries": [
+    "icon.png",
+    "MacroShelfA.deps.json",
+    "MacroShelfA.dll",
+    "MacroShelfA.json"
+  ],
+  "rootCompatibilityZipIdentical": true,
+  "buildWarnings": 0,
+  "buildErrors": 0,
+  "checksPassed": {
+    "logic": 309,
+    "classicUI": 113,
+    "quickbarUI": 199,
+    "nativeImportUI": 182,
+    "skillDisplayUI": 76,
+    "nativeBridgeUI": 25,
+    "taskNavigationUI": 1798,
+    "total": 2702
+  },
+  "configVersion": 9,
+  "exchangeVersion": 5,
+  "gameAcceptancePassed": false,
+  "originalBuildVerificationPreserved": true,
+  "unrelatedFeedEntriesUnchanged": true,
+  "unrelatedFeedEntryCount": 11,
+  "historicalOnlineVersionsUnchanged": true,
+  "downloadUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.9.4.0/MacroShelfA.zip",
+  "sourceUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.9.4.0/MacroShelfA-source.zip",
+  "iconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/MacroShelfA/0.9.4.0/icon.png",
+  "repoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/MacroShelfA"
+}

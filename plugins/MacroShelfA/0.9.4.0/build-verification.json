@@ -1,0 +1,60 @@
+{
+  "version": "0.9.4.0",
+  "baseline": "0.9.3.0",
+  "target": "Windows x64 / .NET 10 / DalamudCN API 15",
+  "delivery": "Local candidate; not installed, hot-reloaded, published or verified in the game client",
+  "build": {
+    "warnings": 0,
+    "errors": 0,
+    "configuration": "Release"
+  },
+  "checks": {
+    "logic": 309,
+    "classicUI": 113,
+    "quickbarUI": 199,
+    "nativeImportUI": 182,
+    "skillDisplayUI": 76,
+    "nativeBridgeUI": 25,
+    "taskNavigationUI": 1798,
+    "total": 2702
+  },
+  "taskUi": {
+    "checks": 1798,
+    "nativeImGui": "1.88",
+    "pages": 10,
+    "lastLineCases": 18,
+    "scales": [
+      "100%",
+      "font 130% / UI 100%",
+      "125%",
+      "150%",
+      "200%"
+    ],
+    "gameVerified": false
+  },
+  "evidence": "Production C# ImGui draw lists and native input, offline macro/skill/native-slot boundaries; NOT game screenshots",
+  "currentNavigation": "10 explicit task pages shared by P3 / Needy / P5; no simple / advanced / more mode",
+  "classic": "Original library/editor navigation preserved as compatibility fallback; regular native functional font",
+  "font": "Single-pass native font, regular weight, window scale 1; no synthetic bold, shear, per-button resizing or raster Chinese functional titles",
+  "standaloneAndInlineViewsHaveSeparateDraftState": true,
+  "configVersion": 9,
+  "exchangeVersion": 5,
+  "runtimeFilesCompared": 19,
+  "runtimeFilesChanged": 0,
+  "existingThemeResourcesCompared": 5,
+  "themeResourcesChanged": 0,
+  "originalPortraitAndLauncherAndIconUnchanged": true,
+  "sourceFilesChanged": 27,
+  "embeddedResources": [
+    "MacroShelfA.Resources.FloatingLauncher.png",
+    "MacroShelfA.Resources.P3Makoto.png",
+    "MacroShelfA.Resources.ShelfWordmark.png",
+    "MacroShelfA.Resources.ShelfLettering.png",
+    "MacroShelfA.Resources.ShelfLettering.json"
+  ],
+  "sha256": {
+    "dll": "50D501A547527D262ED0318F933A316187A18DB83DA17D7F179C889270016F02",
+    "icon": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB",
+    "portrait": "67D72C0C0917BC9EE41A9478917DD67F23B56F285F6B80C556BF98B5C17D56D9"
+  }
+}
