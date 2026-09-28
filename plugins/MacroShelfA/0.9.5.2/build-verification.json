@@ -1,0 +1,51 @@
+{
+  "version": "0.9.5.2",
+  "baseline": "0.9.5.1",
+  "delivery": "Native-default-on configuration change prepared for publication; explicit opt-out preserved; not installed or hot-reloaded",
+  "gameAcceptancePassed": false,
+  "liveHooksVerified": false,
+  "build": {
+    "configuration": "Release",
+    "errors": 0,
+    "warnings": 0
+  },
+  "checks": {
+    "logicAndOfflineABI": 372,
+    "classicUI": 113,
+    "quickbarUI": 199,
+    "nativeImportUI": 182,
+    "skillDisplayUI": 76,
+    "nativeBridgeUI": 25,
+    "taskNavigationUI": 1798,
+    "nativeExecutionSettingsUI": 157,
+    "total": 2922
+  },
+  "engine": {
+    "entry": "RaptureShellModule.ExecuteMacro",
+    "defaultEnabled": true,
+    "explicitSavedFalsePreserved": true,
+    "missingExchangeFieldDefault": true,
+    "maxNativeSegmentLines": 15,
+    "waitParsing": "native; original command wait text retained",
+    "completion": "owned context, natural line=-1, unlocked, valid state and deferred index=count; residual throttle inherited",
+    "userMacroSlotsModified": false,
+    "automaticFallback": false,
+    "fixedDelayAdded": false,
+    "actionRetriesAdded": false,
+    "cancelObserverReturnABI": "byte; preserve original AL",
+    "clientExeSha256": "7BA28760BC53CBBBF66B63105FEA6C1BFE09CB6B1C6353FC8FB0FF03CC1A30F4"
+  },
+  "resourcesCompared": 6,
+  "resourcesChanged": 0,
+  "sourceFilesChanged": 20,
+  "runtimeFilesCompared": 22,
+  "runtimeFilesChanged": 0,
+  "knownCancelMacroDiagnosticRetained": true,
+  "visualGameEvidenceBaseline": "0.9.5.0, not the rebuilt DLL",
+  "sha256": {
+    "icon.png": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB",
+    "MacroShelfA.deps.json": "B363986968797D8974B12977AB1EB1A1BA996E01198C5547E6E34D3AF3A4A036",
+    "MacroShelfA.dll": "84F5F5DB5A1CADA68C88475A56A9C678DDC62C61DA34AF8A29C56283B132141D",
+    "MacroShelfA.json": "5422610AE27EF3BBF7129BD5C7F711F470CC83AB5C86E71D433CE2DC01FCB688"
+  }
+}

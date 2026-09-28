@@ -1,0 +1,33 @@
+{
+  "version": "0.9.5.2",
+  "scope": "One user-provided 69-line dance on the audited CN client; not universal game compatibility",
+  "observedBuildVersion": "0.9.5.0",
+  "observedDllSha256": "1B2C9A375D3DCC2D5BCBA5A8A2410363BD37230BB795180D5C088D0BEAA2C539",
+  "releaseBuildVersion": "0.9.5.2",
+  "releaseDllSha256": "84F5F5DB5A1CADA68C88475A56A9C678DDC62C61DA34AF8A29C56283B132141D",
+  "runtimeFilesMatchObservedBuild": true,
+  "rebuiltDllTestedInGame": false,
+  "clientExeSha256": "7BA28760BC53CBBBF66B63105FEA6C1BFE09CB6B1C6353FC8FB0FF03CC1A30F4",
+  "targetStompVisible": true,
+  "completeNativeRuns": 2,
+  "linesPerRun": 69,
+  "segmentLines": [
+    15,
+    15,
+    15,
+    15,
+    9
+  ],
+  "declaredWaitSeconds": 106.36,
+  "observedRunSeconds": [
+    106.953,
+    106.811
+  ],
+  "selfCancellationLogObserved": true,
+  "externalCancellationAndTakeoverFullyVerified": false,
+  "audioBeatAlignmentMeasured": false,
+  "additionalRealMacroOfflineAssertions": 35,
+  "knownDiagnostic": "CancelMacro hook returns Byte (audited native AL); bundled ClientStructs documents Void. Framework logs ERR but still creates hook. Not changed for this release.",
+  "universalGameAcceptance": false,
+  "privateVideoLogsAndConfigurationPublished": false
+}
