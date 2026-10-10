@@ -5,7 +5,10 @@
 - `LiveFakeName`
 - `Macro Shelf-A`
 - `Nearby Player List`
+- `SkillMusicTrigger`
 - `Auto Face`
+- `Party Food Reminder`
+- `DuanShuiJian`
 - `Auto Gail`
 - `FuckFurniture`
 - `Slidecasting goat`
@@ -23,33 +26,3 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 保存后即可在插件安装器中搜索并安装上述插件。
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
-
-## 插件收纳盒（PluginShelf）
-
-版本 **0.1.2.3**，作者：**断水剑**。简介：**轻松收纳，一键直达。**
-
-本次仅更新展示元数据和版本号，功能、收藏配置保持不变。离线构建零警告、零错误，核心 30 项、后端 20 项、原生 UI 63 项回归通过；**本版尚未在游戏内加载验证**。由本地开发版切到在线版前，先停用同名开发插件，避免同时加载。
-
-[插件包、源码与使用说明](plugins/PluginShelf/README.md)
-
-## Macro Shelf-A
-
-版本 **0.9.5.2**，卫月 API 15，作者：Akl。简介：**当我受够了FF14那糟糕的宏指令**。
-
-**原生宏执行默认开启**，不需要时可手动关闭并记住选择。新配置及缺失该字段的旧配置采用开启；已有保存为关闭的配置不强制覆盖。备份缺省值同步调整，追加导入不改变当前设置。
-
-原生 ExecuteMacro、长宏分段和等待机制不变；保留旧逐行模式、三主题、原图和宏正文。开关文案仍为“原生宏执行”，说明仅“整段交给游戏执行。”。2922 项离线检查通过，Release 构建零错误、零警告。
-
-原生路径仍仅支持已审计客户端，保留已知 CancelMacro Byte/Void 绑定校验提示。Runtime 与已有舞蹈实测的 0.9.5.0 不变；新 DLL 未另做完整游戏验收。
-
-[使用说明、已知问题、插件包与对应源码](plugins/MacroShelfA/README.md)
-
-## 点数统计（点数比拼）
-
-版本 **1.1.0.0**，卫月 API 15，作者：断水剑。使用 `/dstat` 打开。
-
-独立统计 `/random` 的最高、最低或最接近目标数字的玩家；开始自动公告，结束按所选规则公布全部并列第一。公告文字、目标数字和发送频道均可自行设置，默认呼喊 `/shout`。保留逐次记录、归档、复制排名及 CSV 导出。
-
-28 项核心测试、74 项流程/队列/原生界面检查通过；真实游戏内加载及公告收发尚待验收。
-
-[安装说明、插件包与对应源码](plugins/DiceStats/README.md)
