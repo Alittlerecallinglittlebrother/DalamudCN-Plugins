@@ -1,0 +1,14 @@
+{
+  "Author": "PluginShelf",
+  "Name": "插件收纳盒",
+  "InternalName": "PluginShelf",
+  "AssemblyVersion": "0.1.2.2",
+  "Description": "轻量收纳常用插件入口。置顶快捷按钮一键打开，其余收藏在可搜索的折叠面板。不记指令，支持自动发现、中文别名、拖动排序和手动命令绑定。不安装、启停或修改其他插件。",
+  "Punchline": "常用插件，一点即达。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": ["launcher", "plugins", "favorites", "快捷栏", "收纳"],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false
+}
