@@ -11,6 +11,7 @@
 - `Slidecasting goat`
 - `midibard2-深海回响特供版`
 - `点数统计`
+- `插件收纳盒（PluginShelf）`
 
 ## 在线安装
 
@@ -23,6 +24,14 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 保存后即可在插件安装器中搜索并安装上述插件。
 
 插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
+
+## 插件收纳盒（PluginShelf）
+
+版本 **0.1.2.0**，Dalamud API 15。常驻精简快捷栏一键打开常用插件；其余入口在可搜索的收藏夹里按需展开。主界面与设置可分别收藏，支持别名、排序和旧配置沿用。
+
+离线构建零警告、零错误，核心 30 项、后端 20 项、原生 UI 52 项回归通过；**新版尚未在游戏内加载验证**。由本地开发版切到在线版前，先停用同名开发插件，避免同时加载。
+
+[插件包、源码与使用说明](plugins/PluginShelf/README.md)
 
 ## Macro Shelf-A
 
