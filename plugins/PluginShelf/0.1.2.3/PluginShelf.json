@@ -1,0 +1,14 @@
+{
+  "Author": "断水剑",
+  "Name": "插件收纳盒",
+  "InternalName": "PluginShelf",
+  "AssemblyVersion": "0.1.2.3",
+  "Description": "轻松收纳，一键直达。",
+  "Punchline": "轻松收纳，一键直达。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": ["launcher", "plugins", "favorites", "快捷栏", "收纳"],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false
+}
