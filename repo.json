@@ -172,15 +172,15 @@
     "Author": "PluginShelf",
     "Name": "插件收纳盒",
     "InternalName": "PluginShelf",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.2.1",
     "Description": "轻量收纳常用插件入口。置顶快捷按钮一键打开，其余收藏在可搜索的折叠面板。支持自动发现、中文别名和排序；不安装、启停或修改其他插件。",
     "Punchline": "常用插件，一点即达。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": ["launcher", "plugins", "favorites", "快捷栏", "收纳"],
-    "Changelog": "0.1.2.0：使用黑灰白极简界面，常驻快捷栏只显示置顶入口，其余通过可搜索的收藏夹打开；保留主界面与设置分开的收藏、中文别名及原有配置。离线构建、核心/后端/UI 回归通过；新版尚未在游戏内验收。",
+    "Changelog": "0.1.2.1：修复展开收藏夹后再次单击“收纳”或“+”不能关闭的问题；兼容快速连续点击及从搜索框切回。收藏与配置不变，离线核心、后端和 UI 回归通过；本补丁尚未在游戏内验收。",
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/PluginShelf",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.0/PluginShelf.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.0/PluginShelf.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.1/PluginShelf.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.1/PluginShelf.zip"
   }
 ]
