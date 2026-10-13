@@ -1,0 +1,15 @@
+{
+  "Version": "0.9.6.0",
+  "DalamudApiLevel": 15,
+  "GameVersion": "2026.10.06.0000.0000",
+  "DebugBuildPassed": true,
+  "ReleaseBuildPassed": true,
+  "OfflineRegressionPassed": true,
+  "InGameLoadVerified": false,
+  "InGameFunctionalAcceptance": false,
+  "ProductionZipSHA256": "E858BD0E59FC1157C9B8CD5F51C5737AA8E2AE5E484411AB30612F576882D94B",
+  "ProductionZipMatchesTestedLocalPackage": true,
+  "RuntimeAndAbiChecksPassed": 371,
+  "NativeUiRegressionPassed": true,
+  "NewConfigurationNativeExecutionDefault": false
+}
