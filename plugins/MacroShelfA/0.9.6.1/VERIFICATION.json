@@ -1,0 +1,37 @@
+{
+  "Version": "0.9.6.1",
+  "BuildChecks": 4,
+  "Passed": true,
+  "CoreAndAbi": {
+    "Passed": 372,
+    "Total": 372
+  },
+  "OfflineUiAssertions": {
+    "Standard": 113,
+    "Quickbar": 199,
+    "Import": 182,
+    "SkillDisplay": 76,
+    "Bridge": 25,
+    "Tasks": 1798,
+    "NativeSettings": 201,
+    "Announcement": 681
+  },
+  "ActualReleaseAssemblyAssertions": 53,
+  "PluginAssemblySHA256": "04FE2C1703CBA1D0A737438133B8B3FFBE4739E7E476081A449391ECBCB40BC6",
+  "ProductionChanges": [
+    "MacroShelfA/Configuration.cs",
+    "MacroShelfA/ConfigurationExchange.cs",
+    "MacroShelfA/MacroShelfA.csproj"
+  ],
+  "RuntimeFilesUnchangedFrom0960": 23,
+  "GameVerified": false,
+  "DefaultOn": true,
+  "ExplicitSavedOffPreserved": true,
+  "AppendPreservesCurrentSettings": true,
+  "InstallFiles": {
+    "MacroShelfA.dll": "04FE2C1703CBA1D0A737438133B8B3FFBE4739E7E476081A449391ECBCB40BC6",
+    "MacroShelfA.deps.json": "011C910799615AD7B93E820CEBA09DD09A7EAF7562CACF93DE7E36FF2CE6A757",
+    "MacroShelfA.json": "D2BF9E042DE981700E37EAB8BE957F5663C21C9FC445F91789998F879EA80461",
+    "icon.png": "DF9BFB68EDBA8CAB5D1D4D4C47C14F478E8E304430E749772624C7A5F41CE2AB"
+  }
+}
