@@ -1,0 +1,129 @@
+{
+  "Version": "0.9.6.2",
+  "BaselineVersion": "0.9.6.1",
+  "BuildAndOfflineTestsPassed": true,
+  "DebugBuild": "passed, 0 warnings, 0 errors",
+  "ReleaseBuild": "passed, 0 warnings, 0 errors",
+  "CoreAndAbiTests": {
+    "Passed": 376,
+    "Total": 376
+  },
+  "OfflineUiAssertions": {
+    "Standard": 113,
+    "Quickbar": 199,
+    "Import": 182,
+    "SkillDisplay": 76,
+    "Bridge": 25,
+    "Tasks": 1798,
+    "NativeSettings": 201,
+    "Announcement": 1385,
+    "Font": 850
+  },
+  "TotalOfflineUiAssertions": 4829,
+  "PluginAssemblySHA256": "07EAD7AA6FDD37E0F50608D89F5B9EE1D9A5CA23E5057C03D9E75BBACD081A38",
+  "InstallSHA256": "B523D6070133A54B1497F23CA06D66E55608BED95E86F808FEE5B4511D25BBCE",
+  "SourceSHA256": "BF48ED6D733D246970C5BC8BD658822DE507285B2AA02F8F0B37A9C7AF4D4352",
+  "SourceDocumentationOnlyChangesSinceLocalCandidate": [
+    "CHANGELOG.md",
+    "README.md",
+    "RELEASE.md"
+  ],
+  "RuntimeFilesUnchangedFrom0961": 23,
+  "GameVerified": false,
+  "LiveConfigurationModifiedDuringPublication": false,
+  "FontHandleBoundary": "Offline simulated readiness, backed by native rasterized CJK fonts. Actual Dalamud asynchronous build still needs in-game verification.",
+  "UnchangedRuntimeFiles": [
+    {
+      "Path": "MacroShelfA/Runtime/BetterWaitPatch.cs",
+      "SHA256": "FDE17B55DE40B08C4B2A900AA0C4B869E32BE60270F243C6BA3F8FAE051802AD"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/CountdownObserver.cs",
+      "SHA256": "5D5D773BA30520A1C27293E14428A9EE2AA2E4400CCFFB3710F08D1EB6E8E5FF"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/CountdownTrigger.cs",
+      "SHA256": "4DA3B941A54D5E2BFE01CB50572A3D9D7207D4E880B41834BD3B51771A87562B"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/JobChangeGuard.cs",
+      "SHA256": "829A86CA3DA0409F07555D4AC3E2E13D3AFA172E257235ED7677FBE0F6019E81"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/MacroExecutor.cs",
+      "SHA256": "FF98E6ADE9BE851CA561E6B2BB930216078CB8678297F75441A247498CD07696"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/MacroRunCommand.cs",
+      "SHA256": "7957B0E76D5BAFACE87659F87A41F254F6BCB46BAC68BEA9DE63E109ED0AFA01"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/MacroSequence.cs",
+      "SHA256": "4694BDF8822A71BE7FEA9474AC2DABCD852BE3C882A84E43F1927E392403BF55"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeClientProfile.cs",
+      "SHA256": "C30F69D74AE67228DBF45F606A2677ED393558A194B4A2F3CA093E1915EFA306"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeCommandSender.cs",
+      "SHA256": "F88C3587C499628205FD2D2FD35EA20D473F5AF6BD7C3C28457DDCADD85E6166"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeCommandTrace.cs",
+      "SHA256": "2619B282EBBC86ED6E3B6B99EBD897B4B0C9C5E0D057370EE9223BA2B657C442"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeCountdownReader.cs",
+      "SHA256": "F3F7C521AFAB005E5DA193FC359B19BC0439392151DD7B89F7EE518AC8E53992"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeEmoteTrace.cs",
+      "SHA256": "C0930063E745DAF727397B8C029C2FD7D69F298CB7B85D2AD1E00B09804B46D3"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeJobChangeHost.cs",
+      "SHA256": "B3CEAD0F73CB069FC303170F85839DBF0E3092F647BBFEF1FBA996B38BE294A3"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroBridgeBackups.cs",
+      "SHA256": "6DA8F3A80A3B26231CC8CC887447860370404CA765721CF6A91E540D6D75B6EB"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroBridgeHost.cs",
+      "SHA256": "2B40B4BFBD2D354F5D2BAE58CC7FE6A00AE6E0F0F6A23D82D1FF9B26A81085A2"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroBridgeService.cs",
+      "SHA256": "D5CD70EFB734C890061FD955863847032F8293DCAA688C4228968B52F2214339"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroExecutionHost.cs",
+      "SHA256": "981BD598DE1507C2EADEE45A7F216940CDEF530BC505D79F2C3133AE14D3FBB9"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroPlan.cs",
+      "SHA256": "A202D3A054B5C62C3F08E929517CA230A2D7C4F9F5E6DC123C226E196D3B46B0"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroReader.cs",
+      "SHA256": "F1B333578A8986B6E0DD795FC48B12C8EFB8F433197CEDB4AE678A3397502FB5"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/NativeMacroRunner.cs",
+      "SHA256": "62F0F7536B2F5A7ECAB347DDFEEBAE0AF539BA4A50DE583E54E8E9D904A72CFC"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/SkillCatalog.cs",
+      "SHA256": "979F84014F21FD1EABBCEF0D82EE21951E27C1A49F927E4A1CD1A7D24200779A"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/SkillDisplayService.cs",
+      "SHA256": "7DC87E133541B45EB5D987C6F482096EF86E109F988973FA4BF133C81FD6E412"
+    },
+    {
+      "Path": "MacroShelfA/Runtime/SkillDisplayState.cs",
+      "SHA256": "B8767ADE4C8FDA4A7CB6554838FB839C2958152E059A57773EF2F6632C974F1A"
+    }
+  ]
+}
