@@ -181,5 +181,29 @@
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/PluginShelf",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.3/PluginShelf.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/PluginShelf/0.1.2.3/PluginShelf.zip"
+  },
+  {
+    "Author": "Aida Enna、断水剑",
+    "Name": "门铃迎宾",
+    "InternalName": "DoorbellCN",
+    "AssemblyVersion": "2.1.1.0",
+    "Description": "6",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "住宅",
+      "门铃",
+      "宏",
+      "迎宾"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "6",
+    "AcceptsFeedback": false,
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/DoorbellCN",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DoorbellCN/2.1.1.0/DoorbellCN.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DoorbellCN/2.1.1.0/DoorbellCN.zip"
   }
 ]

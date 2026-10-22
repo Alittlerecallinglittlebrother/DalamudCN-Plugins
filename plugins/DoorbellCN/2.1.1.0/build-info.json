@@ -1,0 +1,20 @@
+{
+  "Plugin": "DoorbellCN",
+  "Version": "2.1.1.0",
+  "BuiltAt": "2026-10-23 03:05:24 +08:00",
+  "Author": "Aida Enna、断水剑",
+  "Description": "6",
+  "Punchline": "6",
+  "Region": "CN",
+  "DalamudApi": 15,
+  "DalamudFileVersion": "15.0.3.9",
+  "DotnetSdk": "10.0.402",
+  "DalamudSha256": "AF15D754340C659F9F57C110C9914D8C68A068F588725CAAE50AC237B07DA1C4",
+  "ClientStructsSha256": "5726E301EE5456D526F524E9F88659F38A8717CB527FE4A86D83D1ADE0AB9798",
+  "CoreTests": 110,
+  "CorePassed": 110,
+  "OfflineChecks": 37,
+  "GameTested": false,
+  "Installed": false,
+  "GameMacrosExecuted": false
+}

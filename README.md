@@ -14,6 +14,7 @@
 - `Slidecasting goat`
 - `点数统计`
 - `插件收纳盒（PluginShelf）`
+- `门铃迎宾（DoorbellCN）`
 
 ## 在线安装
 
