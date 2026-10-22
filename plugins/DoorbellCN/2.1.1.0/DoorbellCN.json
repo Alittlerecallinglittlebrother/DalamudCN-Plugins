@@ -1,0 +1,21 @@
+{
+  "Author": "Aida Enna、断水剑",
+  "Name": "门铃迎宾",
+  "InternalName": "DoorbellCN",
+  "AssemblyVersion": "2.1.1.0",
+  "Description": "6",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "住宅",
+    "门铃",
+    "宏",
+    "迎宾"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "6",
+  "AcceptsFeedback": false
+}
