@@ -1,0 +1,103 @@
+PASS empty favorites retain an add entry in the dock
+PASS catalog exposes supported MainUi add action
+PASS native catalog click adds one main-window favorite
+PASS adding a favorite never launches a plugin
+PASS native addition invokes persistence callback
+PASS repeating the same add action does not duplicate a favorite
+PASS native search filters the catalog by Chinese display name
+PASS collapsed dock uses a small single-row footprint even with legacy full-size config
+PASS one native dock click dispatches the selected shortcut exactly once
+PASS subsequent frames do not repeat dispatch
+PASS overflow opens the flyout instead of a large manager
+PASS disabled unloaded favorite does not dispatch
+PASS disabled missing favorite does not dispatch
+PASS flyout search filters favorites without opening the manager
+PASS flyout management opens the full catalog only on request
+PASS first ordinary click opens the flyout
+PASS second ordinary click closes the flyout without holding the mouse
+PASS quick second click closes without a prior mouse-hover frame
+PASS button closes flyout after focus was inside its search box
+PASS overflow button opens flyout
+PASS overflow button also closes with one ordinary click
+PASS either dock button can close a tray opened by the other
+PASS native settings change dock orientation
+PASS native settings change compact mode
+PASS native settings unlock the dock
+PASS native settings enable combat hiding
+PASS changed settings request persistence
+PASS combat hiding removes dock widgets when enabled
+PASS dock returns after combat ends
+PASS existing manager is clamped inside resized 960x640 work area
+PASS manager and dock remain in bounds at scale 1.5 after resize
+PASS native settings can hide the dock
+PASS bottom-right drag cannot expand the manager to cover the game screen
+PASS moving the title keeps the manager completely inside the viewport
+PASS after dragging, the manager controls stay inside the window instead of clipping offscreen
+PASS high UI scale does not turn the manager into a nearly fullscreen window
+PASS native dock drag reorders favorites
+PASS drag reorder never launches a plugin
+PASS native reorder invokes persistence
+PASS minimal tray row launches exactly once and closes after selection
+PASS minimal manager rows still reorder favorites without changing shortcuts
+PASS manager row drag only persists one reorder
+PASS locked dock ignores reorder gestures
+PASS locked reorder gesture does not accidentally launch
+PASS locked dock hides the movement handle entirely
+PASS unlocked dock grip moves the dock
+PASS dock movement saves exactly once on release
+PASS readonly configuration still permits available shortcut launch
+PASS readonly catalog prevents adding a new action
+PASS readonly settings reject edits and do not save
+PASS fresh 960x640 high-scale windows and stale offscreen dock position fit work area
+PASS 640x480 high-scale windows remain entirely within work area
+PASS flyout stays inside the 640x480 work area even with stale dock coordinates and 150% scale
+PASS release while hidden does not leave a stale reorder gesture
+PASS first normal click after interrupted drag dispatches exactly once
+PASS native dock right-click opens the action context menu
+PASS context edit opens native modal with alias and save controls
+PASS native alias save updates the original shortcut without duplicating it
+PASS native alias edit saves once and never dispatches a plugin action
+PASS saving closes the modal and leaves a balanced native popup stack
+PASS new Chinese alias immediately participates in favorites search
+PASS favorites context can reopen the modal and save another alias without dispatch
+PASS group editor fits viewport and includes unloaded plugins
+PASS native group creation saves name
+PASS native membership preserves explicit selection order including disabled targets
+PASS saving a group never starts plugins or opens windows
+PASS group enable dispatches desired enabled state once
+PASS group disable is a separate explicit operation, not a window toggle
+PASS busy guard blocks overlapping group operations
+PASS read-only recovery mode blocks group mutation
+PASS cancel discards group draft and membership changes
+PASS flyout group switch works without opening manager
+PASS flyout manage opens group page directly
+PASS delete confirmation can be cancelled
+PASS deleting a group only removes its record, never stops plugins or deletes favorites
+PASS unknown directory never initiates lifecycle operations
+PASS last-known loaded favorite is not dispatched when catalog is stale
+PASS individual plugin switch dispatches only selected plugin, not its window
+PASS group editor search retains missing members for removal
+PASS scaled group editor stays in small viewport
+PASS favorite row checkbox stops only its plugin
+PASS favorite checkbox never opens window or removes favorite
+PASS unloaded favorite can be individually enabled from flyout
+PASS individual flyout switch keeps panel open for other controls
+PASS pinned shortcut context provides individual lifecycle switch
+PASS group member checkbox controls only that member, not the whole group
+PASS individual member control does not edit group membership
+PASS busy group member switches cannot overlap a running operation
+PASS combat guard applies to individual member switches too
+PASS compact group flyout includes each member switch
+PASS ambiguous individual switch cannot guess a copy
+PASS copy picker lists both sources with versions, paths and state
+PASS saving source preference does not enable anything
+PASS member switch uses selected unloaded copy even if public catalog representative was loaded
+PASS same selected copy now exposes stop action
+PASS cancelled source selection leaves preference unchanged
+PASS copy picker remains within small scaled viewport
+PASS restore automatic selection only clears preference, never toggles plugins
+PASS default catalog includes individual start controls for stopped plugins
+PASS catalog starts stopped plugin without changing the loaded-only filter
+PASS twelve or more nonblank native ImGui screenshot captures exist
+RESULT 101 passed; 0 failed.
+Evidence scope: offline native cimgui rendering with Chinese font, synthetic catalog, and callback recording. No game process was installed, loaded, or controlled; no real plugin window was opened.
