@@ -1,0 +1,14 @@
+{
+  "Author": "断水剑",
+  "Name": "插件收纳盒",
+  "InternalName": "PluginShelf",
+  "AssemblyVersion": "0.2.1.0",
+  "Description": "常用插件快捷入口与分组总控。支持一键启用、停用组内插件，保留插件文件和配置。",
+  "Punchline": "轻松收纳，一键直达。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Tags": ["launcher", "plugins", "favorites", "快捷栏", "收纳"],
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false
+}
