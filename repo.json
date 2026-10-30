@@ -210,7 +210,7 @@
     "Author": "断水剑",
     "Name": "XivPing",
     "InternalName": "XivPing",
-    "AssemblyVersion": "0.5.1.0",
+    "AssemblyVersion": "0.5.2.0",
     "Description": "或许你想给你的队友扣问号？",
     "ApplicableVersion": "any",
     "Tags": [
@@ -226,7 +226,8 @@
     "Punchline": "或许你想给你的队友扣问号？",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/XivPing",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.1.0/XivPing.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.1.0/XivPing.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.2.0/XivPing.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.2.0/XivPing.zip",
+    "Changelog": "0.5.2：迁移附近信号服务入口。旧入口已停用，请通过此在线库更新；使用开发版的用户请先停用开发版，再安装在线版。300 范围、快捷键和原有设置保留。本次不含尚在本地验收的自定义表情功能。"
   }
 ]
