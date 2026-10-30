@@ -205,5 +205,28 @@
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/DoorbellCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DoorbellCN/2.1.2.0/DoorbellCN.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DoorbellCN/2.1.2.0/DoorbellCN.zip"
+  },
+  {
+    "Author": "断水剑",
+    "Name": "XivPing",
+    "InternalName": "XivPing",
+    "AssemblyVersion": "0.5.1.0",
+    "Description": "或许你想给你的队友扣问号？",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "ping",
+      "party",
+      "communication"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "或许你想给你的队友扣问号？",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/XivPing",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.1.0/XivPing.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.1.0/XivPing.zip"
   }
 ]

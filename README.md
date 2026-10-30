@@ -15,6 +15,7 @@
 - `点数统计`
 - `插件收纳盒（PluginShelf）`
 - `门铃迎宾（DoorbellCN）`
+- `XivPing`
 
 ## 在线安装
 
