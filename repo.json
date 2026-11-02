@@ -210,7 +210,7 @@
     "Author": "断水剑",
     "Name": "XivPing",
     "InternalName": "XivPing",
-    "AssemblyVersion": "0.5.2.0",
+    "AssemblyVersion": "0.6.1.0",
     "Description": "或许你想给你的队友扣问号？",
     "ApplicableVersion": "any",
     "Tags": [
@@ -226,8 +226,8 @@
     "Punchline": "或许你想给你的队友扣问号？",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/XivPing",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.2.0/XivPing.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.5.2.0/XivPing.zip",
-    "Changelog": "0.5.2：迁移附近信号服务入口。旧入口已停用，请通过此在线库更新；使用开发版的用户请先停用开发版，再安装在线版。300 范围、快捷键和原有设置保留。本次不含尚在本地验收的自定义表情功能。"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.6.1.0/XivPing.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.6.1.0/XivPing.zip",
+    "Changelog": "新增自定义头顶表情。在 /xivping emotes 导入静态 PNG 或 JPG，点击“修改快捷键”可更换表情轮盘按键。表情显示在姓名、称号上方，间距可调。自定义表情仅自己可见，图片保存在本机。附近玩家可继续互发信号。"
   }
 ]
