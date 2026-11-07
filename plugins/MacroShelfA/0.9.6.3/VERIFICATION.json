@@ -1,0 +1,37 @@
+{
+  "Version": "0.9.6.3",
+  "PreviousVersion": "0.9.6.2",
+  "SourceCommit": "3677383297f4cded235748b4054411c1f6568971",
+  "SourceCommitUrl": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA/commit/3677383297f4cded235748b4054411c1f6568971",
+  "SourceFilesInArchive": 135,
+  "BuildConfiguration": "Release, Windows x64, .NET 10, Dalamud CN API 15, warnings as errors",
+  "GithubActions": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA/actions/runs/42322170120",
+  "GitHubActionsConclusion": "success",
+  "CoreAndAbiTests": {
+    "Passed": 386,
+    "Total": 386
+  },
+  "OfflineUiAssertions": {
+    "native A+B UI": 113,
+    "native quickbar UI": 199,
+    "feature A native import UI": 182,
+    "offline skill display UI": 76,
+    "native macro bridge offline UI": 25,
+    "task navigation UI": 1798,
+    "native execution settings UI": 249,
+    "announcement UI": 1385,
+    "font UI": 850
+  },
+  "TotalOfflineUiAssertions": 4877,
+  "AssemblyVersion": "0.9.6.3",
+  "PluginAssemblySHA256": "b24c97e23654578ecc79a73d7dcf3af4a58b071689e3df3f96577854fa63e367",
+  "InstallSHA256": "5a79241def38f736eca88323a25618a200b6180c0687572c20fc9d671e27a485",
+  "SourceSHA256": "08020907d8f6428a5d724c824aae987e3c6f383c43b276c6e2d1f2bc19232e3b",
+  "PackageEntries": [
+    "icon.png",
+    "MacroShelfA.deps.json",
+    "MacroShelfA.dll",
+    "MacroShelfA.json"
+  ],
+  "GameVerified": false
+}
