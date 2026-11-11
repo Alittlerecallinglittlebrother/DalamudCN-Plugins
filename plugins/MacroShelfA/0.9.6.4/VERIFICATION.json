@@ -1,0 +1,11 @@
+{
+  "version": "0.9.6.4",
+  "gameBuild": "2026.11.03.0000.0000",
+  "dalamudBuild": "26-11-10-01",
+  "dalamudApi": 15,
+  "logicAndAbiChecks": 386,
+  "imguiAssertions": 4877,
+  "packageSha256": "104AC048E945B87ACBAAD3505CC0074C715E36628C2DD3F1921E935C1BE18BF4",
+  "dllSha256": "88B65961F139C979BFEE75F8A65A6AC8D65D7A50AD00150C9212A6F02CC9B693",
+  "verifiedInGame": false
+}

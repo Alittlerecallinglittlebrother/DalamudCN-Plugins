@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本：**0.9.6.3**。作者：**Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本：**0.9.6.4**。作者：**Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,13 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**；已添加者刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。建议退出游戏后更新，再用 `/aklmacro version` 确认实际版本 **0.9.6.3**。
+保存后搜索 **Macro Shelf-A**；已添加者刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。建议退出游戏后更新，再用 `/aklmacro version` 确认实际版本 **0.9.6.4**。
 
-[插件包](0.9.6.3/MacroShelfA.zip) · [对应源码与测试](0.9.6.3/MacroShelfA-source.zip) · [发布说明](0.9.6.3/RELEASE.md) · [SHA256](0.9.6.3/SHA256SUMS.txt)
+[插件包](0.9.6.4/MacroShelfA.zip) · [对应源码与测试](0.9.6.4/MacroShelfA-source.zip) · [发布说明](0.9.6.4/RELEASE.md) · [SHA256](0.9.6.4/SHA256SUMS.txt)
+
+## 0.9.6.4 国服 7.58 兼容
+
+更新原生宏执行、取消和动作诊断所用的客户端入口。
 
 ## 0.9.6.3 宏资料库与热键修复
 
