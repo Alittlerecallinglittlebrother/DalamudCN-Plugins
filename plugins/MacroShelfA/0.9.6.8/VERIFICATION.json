@@ -1,0 +1,22 @@
+{
+  "version": "0.9.6.8",
+  "gameBuild": "2026.11.03.0000.0000",
+  "dalamudApi": 15,
+  "logicAndAbiChecks": 399,
+  "imguiAssertions": 4877,
+  "packageSha256": "EB8D39DE8AA9E16263F32084AFEED9B90F47F69A869DFDBAE1571EEB3AC122F6",
+  "dllSha256": "C1B2DC0408764AD7B524243883558E25854291657520E5ABFAA57B68584024B0",
+  "inGameReplay": {
+    "testedBuild": "更新两处界面文案之前的 0.9.6.8 开发构建",
+    "command": "/cheer<wait.0.3>",
+    "sameProcessReloads": 2,
+    "linesPerRun": 4,
+    "acceptedLinesInFirstRun": 4,
+    "animationStartsInSecondRun": 4,
+    "secondRunIntervalsMs": [
+      298,
+      295,
+      309
+    ]
+  }
+}
