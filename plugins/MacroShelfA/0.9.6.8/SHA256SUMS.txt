@@ -1,0 +1,3 @@
+c6e05cf73b47a94f1df4080695af39aca9643ef16bccc9ccdee4dc82decc5e21  MacroShelfA.zip
+df9bfb68edba8cab5d1d4d4c47c14f478e8e304430e749772624c7a5f41ce2ab  icon.png
+d7842adbb9bd49e599c4aa7c22de0f3527e2cd00ff0f9c675884fcdf446d702b  RELEASE.md
