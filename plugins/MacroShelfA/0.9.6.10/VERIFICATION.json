@@ -1,0 +1,46 @@
+{
+  "version": "0.9.6.10",
+  "gameBuild": "2026.11.03.0000.0000",
+  "dalamudApi": 15,
+  "logicAndAbiChecks": 403,
+  "packageSha256": "691d819ffb0ab0edc13090fbc46199a639f482a141ba0c372e7b1f82155945b1",
+  "dllSha256": "eda307e1948d141ce15b86edcabd1157beecbb3b159ee08fe9909b4694945ace",
+  "dllMvid": "2f3d6cf2-02c4-421d-b4fd-401c450d4703",
+  "offlineEmoteMatrix": {
+    "primaryCommands": 293,
+    "singleActionCases": 3809,
+    "millisecondValues": 1001,
+    "orderedActionPairs": 85556,
+    "alternatingCases": 770004,
+    "threeActionCases": 46800,
+    "recognizedCommandSpellings": 689,
+    "longAndChildBoundaryCases": 2,
+    "targetedCases": 28
+  },
+  "inGameReplay": {
+    "testedBuild": "与安装包逐字节一致的 DLL",
+    "engines": {
+      "native": {
+        "cases": 46,
+        "acceptedCommands": 229,
+        "sampledAnimationStarts": 212
+      },
+      "legacy": {
+        "cases": 30,
+        "acceptedCommands": 165,
+        "sampledAnimationStarts": 158
+      }
+    },
+    "casesWithIntervalsAtLeast50Ms": 66,
+    "sampledStartsInThoseCases": 354,
+    "limitations": [
+      "0、0.001、0.009 秒用例每组四行都通过了动作执行检查，采样捕捉到每组一到两次起播。",
+      "测试角色未解锁两个战队演武和幻想舞步，原复现宏通过了离线计划验证。"
+    ]
+  },
+  "harness2": {
+    "sessions": 8,
+    "baselineVerifier": "1/1",
+    "candidateVerifier": "1/1"
+  }
+}
