@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本：**0.9.6.8**。作者：**Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本：**0.9.6.10**。作者：**Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,14 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.8**。
+保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.10**。
 
-[插件包](0.9.6.8/MacroShelfA.zip) · [发布说明](0.9.6.8/RELEASE.md) · [SHA256](0.9.6.8/SHA256SUMS.txt)
+[插件包](0.9.6.10/MacroShelfA.zip) · [发布说明](0.9.6.10/RELEASE.md) · [SHA256](0.9.6.10/SHA256SUMS.txt)
+
+## 0.9.6.10 短间隔表情切换
+
+- 不同表情可按小数间隔交替执行。
+- 独立等待与行尾等待可混用，支持中英文和数字简写。
 
 ## 0.9.6.8 同一表情逐行重播
 
