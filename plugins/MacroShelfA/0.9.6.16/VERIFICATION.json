@@ -1,0 +1,16 @@
+{
+  "version": "0.9.6.16",
+  "dalamudApi": 15,
+  "packageSha256": "4076d7d7084c3554e00555f9347dccda5330d655bd6dc579b717dbffee60c014",
+  "dllSha256": "c5cbe3f74ec8a2f59caaf21967a6f65d5d1d00acac46507be293f2c13a6089c7",
+  "logicAndAbiChecks": 404,
+  "offlineWorkspaceUiChecks": 3894,
+  "harness2": {
+    "sessions": 8,
+    "status": "completed"
+  },
+  "inGame": {
+    "testedBuild": "与发布包相同的 DLL",
+    "report": "维护者实机复测，弹窗没有再溢出。"
+  }
+}
