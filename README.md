@@ -27,4 +27,4 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 保存后即可在插件安装器中搜索并安装上述插件。
 
-插件安装包、图标和版本信息由本仓库或对应插件仓库提供。
+在线安装所需的安装包、图标和版本信息由本仓库提供。

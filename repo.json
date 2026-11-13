@@ -8,10 +8,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "直播也要大大方方开！",
-    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/FAKE-Name-A",
-    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/FAKE-Name-A/main/FAKE-Name-A.zip"
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/DalamudCNStarter",
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DalamudCNStarter/0.5.1.0/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DalamudCNStarter/0.5.1.0/FAKE-Name-A.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/DalamudCNStarter/0.5.1.0/FAKE-Name-A.zip"
   },
   {
     "Author": "Akl",
@@ -43,10 +43,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "查看附近玩家、选中目标并快速发送私聊。",
-    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/NearbyPlayerList",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/tree/main/plugins/NearbyPlayerList",
     "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/NearbyPlayerList/icon.png?v=6a19bea",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/NearbyPlayerList/main/NearbyPlayerList.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/NearbyPlayerList/main/NearbyPlayerList.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/NearbyPlayerList/0.1.0.6/NearbyPlayerList.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/NearbyPlayerList/0.1.0.6/NearbyPlayerList.zip"
   },
   {
     "Author": "Akl",
