@@ -1,0 +1,19 @@
+# Local settings and diagnostics
+.env
+.env.*
+*.log
+*.binlog
+*.dmp
+*.pdb
+*.mdb
+*.dbg
+
+# Development archives and test output
+*-source.zip
+VERIFICATION.json
+*-verification.json
+*-acceptance-summary.json
+build-info.json
+offline-checks.json
+UI测试.txt
+*-offline.png

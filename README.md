@@ -3,7 +3,7 @@
 用于集中安装以下 DalamudCN 插件的在线仓库：
 
 - `LiveFakeName`
-- `Macro Shelf-A`
+- [Macro Shelf-A](plugins/MacroShelfA/README.md)
 - `Nearby Player List`
 - `SkillMusicTrigger`
 - `Auto Face`
@@ -12,9 +12,9 @@
 - `Auto Gail`
 - `FuckFurniture`
 - `Slidecasting goat`
-- `点数统计`
-- `插件收纳盒（PluginShelf）`
-- `门铃迎宾（DoorbellCN）`
+- [点数统计](plugins/DiceStats/README.md)
+- [插件收纳盒（PluginShelf）](plugins/PluginShelf/README.md)
+- [门铃迎宾（DoorbellCN）](plugins/DoorbellCN/README.md)
 - `XivPing`
 
 ## 在线安装
