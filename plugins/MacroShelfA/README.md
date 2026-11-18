@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本 **0.9.6.21**。作者 **Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本 **0.9.6.22**。作者 **Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,13 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.21**。
+保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.22**。
 
-[插件包](0.9.6.21/MacroShelfA.zip) · [发布说明](0.9.6.21/RELEASE.md) · [SHA256](0.9.6.21/SHA256SUMS.txt)
+[插件包](0.9.6.22/MacroShelfA.zip) · [发布说明](0.9.6.22/RELEASE.md) · [SHA256](0.9.6.22/SHA256SUMS.txt)
+
+## 0.9.6.22 酷狗音乐支持
+
+在「播放器同步」面板选择「酷狗音乐」，可在播放开始后运行选中的宏。酷狗电脑版的设置步骤见面板里的「使用教程」。
 
 ## 0.9.6.21 窗口拖动修复
 
