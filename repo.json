@@ -234,7 +234,7 @@
     "Author": "Page63Follower",
     "Name": "Pet Companion",
     "InternalName": "Page63Follower",
-    "AssemblyVersion": "0.8.1.0",
+    "AssemblyVersion": "0.8.2.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "把63页或蝴蝶效应显示成随行的人形伙伴。",
@@ -247,11 +247,11 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
-    "Changelog": "角色库的「已保存」可以删除单个角色文件。选中文件后点击「删除文件」，核对文件名再确认。删除后，宠物会继续使用当前外观。",
+    "Changelog": "修复随行人物有名字和选中圈、身体却看不见的问题。人形显示后才隐藏原宠物。现在可以直接点选随行人物，也可以在「角色 → 当前随行外观」选中人物或改名。名字会按外观保存。",
     "AcceptsFeedback": false,
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/PetCompanion",
-    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/PetCompanion/v0.8.1.0/icon.png",
-    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.1.0/PetCompanion-0.8.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.1.0/PetCompanion-0.8.1.0.zip"
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/PetCompanion/v0.8.2.1/icon.png",
+    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.2.1/PetCompanion-0.8.2.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.2.1/PetCompanion-0.8.2.1.zip"
   }
 ]
