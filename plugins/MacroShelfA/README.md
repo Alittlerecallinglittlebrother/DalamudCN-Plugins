@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本 **0.9.6.20**。作者 **Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本 **0.9.6.21**。作者 **Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,13 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.20**。
+保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.21**。
 
-[插件包](0.9.6.20/MacroShelfA.zip) · [发布说明](0.9.6.20/RELEASE.md) · [SHA256](0.9.6.20/SHA256SUMS.txt)
+[插件包](0.9.6.21/MacroShelfA.zip) · [发布说明](0.9.6.21/RELEASE.md) · [SHA256](0.9.6.21/SHA256SUMS.txt)
+
+## 0.9.6.21 窗口拖动修复
+
+主窗口卡在屏幕底部时，重新打开插件会自动把窗口带回游戏画面。按住标题栏可上下、左右拖动。
 
 ## 0.9.6.20 播放器同步
 
