@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本 **0.9.6.22**。作者 **Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本 **0.9.6.26**。作者 **Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,15 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.22**。
+保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.26**。
 
-[插件包](0.9.6.22/MacroShelfA.zip) · [发布说明](0.9.6.22/RELEASE.md) · [SHA256](0.9.6.22/SHA256SUMS.txt)
+[插件包](0.9.6.26/MacroShelfA.zip) · [发布说明](0.9.6.26/RELEASE.md) · [SHA256](0.9.6.26/SHA256SUMS.txt)
+
+## 0.9.6.26 背包道具与时尚配饰
+
+在「我的宏」里选中一个宏，点右侧「宏命令」标题下的「插入道具」。可以搜索名称、类别或 ID，点选后把指令追加到宏末尾。勾选「高品质 (HQ)」可插入使用高品质道具的指令。
+
+佩戴已解锁的配饰时，选择标有「时尚配饰」的结果。例如选择「大天使之翼 · 时尚配饰」会加入游戏原生指令。同名的「解锁道具」用于使用背包里的解锁物品。
 
 ## 0.9.6.22 酷狗音乐支持
 
