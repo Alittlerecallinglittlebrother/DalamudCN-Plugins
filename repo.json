@@ -234,7 +234,7 @@
     "Author": "Page63Follower",
     "Name": "Pet Companion",
     "InternalName": "Page63Follower",
-    "AssemblyVersion": "0.8.0.0",
+    "AssemblyVersion": "0.8.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "把63页或蝴蝶效应显示成随行的人形伙伴。",
@@ -247,11 +247,11 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
-    "Changelog": "角色库新增「附近角色」。可按距离浏览当前客户端已加载的玩家和人形 NPC，按角色名或服务器搜索，选中后保存当时的外观。",
+    "Changelog": "角色库的「已保存」可以删除单个角色文件。选中文件后点击「删除文件」，核对文件名再确认。删除后，宠物会继续使用当前外观。",
     "AcceptsFeedback": false,
     "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/PetCompanion",
-    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/PetCompanion/v0.8.0.0/icon.png",
-    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.0.0/PetCompanion-0.8.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.0.0/PetCompanion-0.8.0.0.zip"
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/PetCompanion/v0.8.1.0/icon.png",
+    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.1.0/PetCompanion-0.8.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.1.0/PetCompanion-0.8.1.0.zip"
   }
 ]
