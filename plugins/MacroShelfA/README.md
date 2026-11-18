@@ -1,6 +1,6 @@
 # Macro Shelf-A
 
-当前在线版本 **0.9.6.16**。作者 **Akl**。DalamudCN API 15 / .NET 10。
+当前在线版本 **0.9.6.20**。作者 **Akl**。DalamudCN API 15 / .NET 10。
 
 插件简介：**当我受够了FF14那糟糕的宏指令**。
 
@@ -10,9 +10,15 @@
 
     https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/repo.json
 
-保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.16**。
+保存后搜索 **Macro Shelf-A**。已添加仓库的玩家可刷新插件安装器后更新。若启用了同名本地开发版，先停用以免重复加载。更新后可用 `/aklmacro version` 确认实际版本 **0.9.6.20**。
 
-[插件包](0.9.6.16/MacroShelfA.zip) · [发布说明](0.9.6.16/RELEASE.md) · [SHA256](0.9.6.16/SHA256SUMS.txt)
+[插件包](0.9.6.20/MacroShelfA.zip) · [发布说明](0.9.6.20/RELEASE.md) · [SHA256](0.9.6.20/SHA256SUMS.txt)
+
+## 0.9.6.20 播放器同步
+
+选中要运行的宏，点「播放器同步」，展开「使用教程」查看网易云音乐和 QQ 音乐的 SMTC 设置。先在播放器里选歌，播放后暂停到开场位置，再回到插件选择播放器。确认歌名和宏名后点「开始同步」。
+
+插件在 Windows 确认播放后启动宏。「更多设置」中可调整同步延迟，等待期间可点「取消同步」。
 
 ## 0.9.6.16 界面更新与弹窗修复
 
