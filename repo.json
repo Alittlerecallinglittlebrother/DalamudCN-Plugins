@@ -229,5 +229,29 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.6.2.0/XivPing.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugins/main/plugins/XivPing/0.6.2.0/XivPing.zip",
     "Changelog": "自定义头顶表情现可在附近玩家之间双向分享。双方更新至 0.6.2，处于同一场景、300 范围内且彼此可见即可使用，无需组队。仅发送时共享处理后的 128×128 小图，每张最多 32 KiB。可在表情库的显示设置中关闭接收，也可单独屏蔽玩家。"
+  },
+  {
+    "Author": "Page63Follower",
+    "Name": "Pet Companion",
+    "InternalName": "Page63Follower",
+    "AssemblyVersion": "0.8.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "把63页或蝴蝶效应显示成随行的人形伙伴。",
+    "Description": "用 /petcompanion 打开宠物随行面板，管理角色库、保存或应用人形外观，并为63页或蝴蝶效应设置衣装和动作。也可使用 /page63。",
+    "Tags": [
+      "宠物",
+      "随行",
+      "外观"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "Changelog": "角色库新增「附近角色」。可按距离浏览当前客户端已加载的玩家和人形 NPC，按角色名或服务器搜索，选中后保存当时的外观。",
+    "AcceptsFeedback": false,
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/PetCompanion",
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/PetCompanion/v0.8.0.0/icon.png",
+    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.0.0/PetCompanion-0.8.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/PetCompanion/releases/download/v0.8.0.0/PetCompanion-0.8.0.0.zip"
   }
 ]

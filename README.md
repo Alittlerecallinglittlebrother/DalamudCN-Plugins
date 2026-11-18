@@ -16,6 +16,7 @@
 - [插件收纳盒（PluginShelf）](plugins/PluginShelf/README.md)
 - [门铃迎宾（DoorbellCN）](plugins/DoorbellCN/README.md)
 - `XivPing`
+- [Pet Companion（宠物随行）](https://github.com/Alittlerecallinglittlebrother/PetCompanion)
 
 ## 在线安装
 
@@ -27,4 +28,4 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/DalamudCN-Plugin
 
 保存后即可在插件安装器中搜索并安装上述插件。
 
-在线安装所需的安装包、图标和版本信息由本仓库提供。
+安装器会按仓库清单中的链接下载对应版本的安装包和图标。
